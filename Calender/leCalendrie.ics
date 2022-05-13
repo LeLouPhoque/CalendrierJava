@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID://applicamp.com//lienIcal
+PRODID://test.com//lienIcal
 BEGIN:VEVENT
 DTSTAMP:20220513T090844
-UID:applicamp@ical.com
+UID:test@ical.com
 DTSTART;TZID=Europe/Paris:20220511T110000
 DTEND;TZID=Europe/Paris:20220512T110000
 SUMMARY:Reservation de AI685201
