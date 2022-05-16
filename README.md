@@ -1,2 +1,2 @@
-# CalendrierJava
-c'est super
+# JavaPlanningToCalender
+Pretty cool 
